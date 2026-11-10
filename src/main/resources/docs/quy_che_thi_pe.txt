@@ -1,0 +1,232 @@
+================================================================================
+BỘ QUY CHẾ VÀ QUY ĐỊNH THI DÀNH CHO SINH VIÊN ĐẠI HỌC FPT [FA26]
+(Bao gồm: Điều kiện dự thi, Nội quy phòng thi QĐ 1234/QĐ-ĐHFPT & Quy định thi Practical Exam - PE)
+================================================================================
+
+==================================================
+PHẦN 1: ĐIỀU KIỆN ĐƯỢC THI (ĐIỀU KIỆN DỰ THI KỲ THI CUỐI KỲ / PE / FE)
+==================================================
+1. Quy định về chuyên cần (Điểm danh):
+   - Sinh viên KHÔNG ĐƯỢC VẮNG QUÁ 20% tổng số buổi học của môn học (nghĩa là tỷ lệ có mặt tối thiểu phải đạt từ 80% trở lên).
+   - Nếu sinh viên nghỉ học quá 20% tổng số buổi (dù có phép hay không phép), sinh viên sẽ bị CẤM THI (Status: Attendance Fail), bị tính điểm 0 và bắt buộc phải đăng ký học lại môn đó.
+2. Điều kiện điểm thành phần (Điểm quá trình):
+   - Hoàn thành đầy đủ các đầu điểm kiểm tra quá trình, bài thực hành (Lab), bài tập lớn (Assignment / Progress Test).
+   - Điểm trung bình các thành phần quá trình phải đạt điều kiện tối thiểu theo quy định của từng đề cương môn học (thường không có điểm thành phần nào bị 0 điểm).
+3. Nghĩa vụ học phí và thủ tục:
+   - Sinh viên phải hoàn thành đóng học phí đầy đủ trước thời hạn quy định của học kỳ. Sinh viên nợ học phí sẽ bị rút tên khỏi danh sách thi.
+
+==================================================
+PHẦN 2: NỘI QUY PHÒNG THI CHUNG (Theo Quyết định số 1234/QĐ-ĐHFPT ngày 07/11/2024)
+==================================================
+1. Thời gian và giờ giấc:
+   - Sinh viên phải có mặt tại phòng thi đúng ngày, giờ quy định trên lịch thi cá nhân.
+   - CẢNH BÁO ĐI MUỘN: Sinh viên đến chậm QUÁ 5 PHÚT sau giờ thi chính thức sẽ KHÔNG ĐƯỢC DỰ THI và sẽ mất lượt thi đó.
+   - Thời gian ra khỏi phòng thi: Sinh viên chỉ được phép nộp bài và ra khỏi phòng thi sớm nhất là sau 2/3 THỜI GIAN LÀM BÀI (trừ trường hợp cấp cứu y tế).
+2. Giấy tờ tùy thân:
+   - Bắt buộc phải xuất trình một trong các giấy tờ: Căn cước công dân (CCCD) / CMND / Thẻ sinh viên / Giấy phép lái xe.
+3. Thiết bị và vật dụng trong phòng thi:
+   - CẤM mang vào phòng thi các thiết bị truyền tin (thu, phát sóng, ghi âm, ghi hình) hoặc chứa dữ liệu để gian lận. Nếu mang theo phải TẮT NGUỒN hoàn toàn và để ở nơi quy định.
+   - Cấm sử dụng tài khoản của người khác hoặc cho người khác dùng tài khoản của mình để đăng nhập hệ thống thi.
+4. Quy định về sử dụng AI trong bài thi:
+   - Trong trường hợp môn thi cho phép sử dụng AI, nếu phần bài làm do AI tham gia tạo ra mà sinh viên KHÔNG GHI RÕ thì sẽ bị HỦY BỎ KẾT QUẢ BÀI THI (0 điểm).
+   - Các môn không cho phép: Cấm tuyệt đối mọi hình thức AI (ChatGPT, Copilot, Gemini...).
+5. Quy định phúc khảo điểm thi:
+   - Thời hạn nộp đơn phúc khảo: Trong vòng 3 NGÀY LÀM VIỆC kể từ ngày công bố điểm thi.
+   - Thời hạn nhà trường trả lời: Chậm nhất 5 NGÀY LÀM VIỆC kể từ ngày hết hạn nhận đơn.
+   - Sinh viên được làm đơn phúc khảo tối đa 2 LẦN cho mỗi bài thi. Khoản tiền xử lý đơn sẽ được hoàn trả nếu điểm thi được điều chỉnh sau phúc khảo.
+6. Hình thức kỷ luật vi phạm:
+   - Cảnh cáo: Bị trừ 50% số điểm bài thi đó (áp dụng khi nhìn bài, trao đổi lần 1).
+   - Đình chỉ thi: Bị điểm 0 toàn bộ môn thi đó, phải rời phòng thi ngay lập tức.
+   - Đưa đề thi ra ngoài hoặc đưa bài giải vào: Đình chỉ thi, đình chỉ học 1 học kỳ, nếu tái phạm sẽ Buộc thôi học hoặc chuyển cơ quan Công an xử lý.
+
+==================================================
+PHẦN 3: QUY ĐỊNH CHI TIẾT TỪNG MÔN THI THỰC HÀNH (PE)
+==================================================
+
+--------------------------------------------------
+MÔN CSD201 (Cấu trúc dữ liệu & Giải thuật với Java)
+--------------------------------------------------
+1. Sinh viên được sử dụng: bút, giấy nháp trắng, máy tính cầm tay.
+2. Công cụ lập trình: Netbeans 13, JDK 8.
+3. Công cụ được phép mở khi thi PE: tool PEA, Netbeans, Notepad, Notepad++, Windows Explorer, WinRar/Zip.
+4. Không sử dụng code có sẵn trong máy: Phải tắt tất cả project trong Netbeans và các file code mở sẵn trong Notepad/Notepad++. Vi phạm sẽ coi là gian lận.
+5. Khởi động bất kỳ công cụ nào ngoài danh sách trên (kể cả vô tình) đều coi là vi phạm quy chế thi.
+
+--------------------------------------------------
+MÔN CSD202 (Cấu trúc dữ liệu & Giải thuật với C++)
+--------------------------------------------------
+1. Yêu cầu phần mềm: Dev C++ 6.3, Command Prompt, Notepad, WinRAR / WinZip, Windows Explorer trên Windows 7 trở lên.
+2. Sinh viên chỉ được dùng tài liệu học tập (code mẫu, ví dụ) lưu trữ cục bộ trên máy tính cá nhân.
+
+--------------------------------------------------
+MÔN CSD203 (Cấu trúc dữ liệu & Giải thuật với Python)
+--------------------------------------------------
+1. Công cụ lập trình: Thonny.
+   (LƯU Ý: Từ học kỳ SP 2025, công cụ lập trình bắt buộc dùng cho thi PE là Thonny. Dùng PyCharm, VS Code hay các công cụ khác đều xem như vi phạm quy chế).
+2. Công cụ được phép mở: tool PEA, Thonny, Notepad, Notepad++, Windows Explorer, WinRar/Zip.
+3. Phải tắt hết project có sẵn trong Thonny trước khi làm bài.
+
+--------------------------------------------------
+MÔN DBI202 (Hệ cơ sở dữ liệu SQL Server)
+--------------------------------------------------
+1. Làm bài cá nhân, không trao đổi, chia sẻ bài.
+2. Ứng dụng được phép mở: SQL Server, Windows Explorer, zip tools, PEA.
+3. Tất cả công cụ khác ngoài danh sách (cho dù mở vô tình hay mở mà không dùng) đều bị 0 ĐIỂM PE.
+
+--------------------------------------------------
+MÔN FER202 (Lập trình Front-End với React)
+--------------------------------------------------
+1. Làm bài cá nhân. Không trao đổi, không dùng source code cũ.
+2. Phần mềm lúc thi: PEA, Windows Explorer, zip tools, Command Prompt, Visual Studio Code, Postman.
+3. Kết nối mạng: Được phép có Internet để cài đặt package qua npm.
+4. Trình duyệt (Web Browser): Tắt các tab không liên quan. Chỉ mở localhost, mockapi (https://*.mockapi.io/*) và các trang thư viện CSS cho phép:
+   - https://getbootstrap.com/
+   - https://react-bootstrap.netlify.app/
+   - https://fontawesome.com/
+   (QUY ĐỊNH BẮT BUỘC VỀ CSS: Ứng dụng chỉ được phép sử dụng Bootstrap CSS. Sử dụng các thư viện CSS khác như Tailwind, AntDesign... sẽ bị 0 ĐIỂM PE).
+5. Các URL form và validation được phép: zod.dev, github.com/jquense/yup, formik.org, react-hook-form.com.
+6. Quy định nộp bài: Bài bị lỗi cú pháp, lỗi biên dịch, không khởi động được bằng 'npm start' hoặc 'npm run dev' -> 0 ĐIỂM PE.
+7. Quy định MockAPI: API endpoint phải đọc từ file .env, không được hardcode. Sau khi thi KHÔNG ĐƯỢC XÓA resource trên MockAPI cho tới khi công bố điểm xong.
+8. Dung lượng submit PE < 10MB.
+
+--------------------------------------------------
+MÔN PFP191 (Lập trình Python cơ bản)
+--------------------------------------------------
+1. Tools được phép: Thonny, Notepad, Command Prompt, WinRAR / WinZip, Windows Explorer trên Windows 7 trở lên.
+2. Mở bất kỳ công cụ nào khác ngoài danh sách sẽ bị 0 ĐIỂM PE.
+
+--------------------------------------------------
+MÔN PCP291 / MÔN PRF192 / MÔN PRF193 (Lập trình C)
+--------------------------------------------------
+1. Tools được phép: Dev C++ 6.3, Notepad, Command Prompt, WinRAR / WinZip, Windows Explorer trên Windows.
+2. Mở tool ngoài danh sách sẽ bị 0 ĐIỂM PE.
+
+--------------------------------------------------
+MÔN PRJ301 / PRJ302 (Lập trình Java Web)
+--------------------------------------------------
+1. Môi trường phát triển bắt buộc:
+   a. IDE lập trình: NetBeans version 13 (Cài Customize -> Gỡ bỏ gói PHP).
+   b. Java SDK: JDK 8 (update 172).
+   c. Thư viện kết nối CSDL: sqljdbc4.jar (Dùng thư viện khác sẽ bị 0 điểm).
+   d. Web server: Apache Tomcat 9.0.113.
+   e. Quy định thư viện: Chỉ sử dụng các thư viện có sẵn trong thư mục lib của đề thi tải về. Không thêm, bớt hoặc thay thế thư viện.
+2. Phải đóng toàn bộ project cũ trong NetBeans trước khi làm bài.
+3. Ứng dụng được phép mở: Tool PE, Netbeans, SQL Server, Web Browser (chỉ mở đúng 1 loại trình duyệt).
+4. Mở công cụ khác ngoài danh sách -> 0 ĐIỂM PE.
+
+--------------------------------------------------
+MÔN HSF301 / HSF302 (Lập trình Java Frameworks: Spring Boot, Spring JPA, Thymeleaf)
+--------------------------------------------------
+1. Quy định kết nối mạng & tài nguyên:
+   - Cho phép sinh viên kết nối Internet trong vòng 10 PHÚT ĐẦU GIỜ để thiết lập (setup) project và tải dependencies Maven.
+   - Hết 10 phút, sinh viên chỉ được phép sử dụng tài nguyên cục bộ có sẵn trên máy tính cá nhân.
+2. Quy chuẩn Project & Môi trường:
+   - Định dạng IDE: IntelliJ IDEA format (chạy trên JDK 21).
+   - Quy ước đặt tên project bắt buộc: <ClassName>_<StudentID>_<ProjectCode>_PE
+     (Ví dụ: SE1801_SE123456_RMS_PE).
+   - Kiểu project: Spring Boot, loại đóng gói (package type) là 'war' (hoặc jar theo đề) chạy trên JDK 21.
+   - Công nghệ bắt buộc: Spring Boot (phiên bản 3.4.x / 3.5.x), Spring Data JPA, Spring MVC 6 và Thymeleaf.
+   - LƯU Ý ĐẶC BIỆT CẤM THƯ VIỆN NGOÀI: TUYỆT ĐỐI KHÔNG ĐƯỢC PHÉP SỬ DỤNG CÁC THƯ VIỆN KHÁC, ĐẶC BIỆT LÀ LOMBOK (Do not allow use other libraries e.g. lombok). Sử dụng lombok hoặc thư viện ngoài danh sách quy định sẽ bị 0 ĐIỂM.
+   - Trình điều khiển CSDL: Dùng MS SQL Server Driver có sẵn trong project Spring Boot cho MS SQL Server 2016 trở lên.
+3. Quy chuẩn cấu trúc Package (MVC & Layer Pattern) bắt buộc tuân thủ:
+   Toàn bộ mã nguồn Java phải đặt trong các package theo cấu trúc sau (thay <studentId> bằng mã số sinh viên viết chữ thường):
+   - com.<studentId>.mvc.entity          : Chứa các Entity class ánh xạ bảng CSDL.
+   - com.<studentId>.mvc.repository      : Chứa các Repository Interface (kế thừa JpaRepository).
+   - com.<studentId>.mvc.service         : Chứa các Service Interface khai báo nghiệp vụ.
+   - com.<studentId>.mvc.service.impl    : Chứa các Service Implementation class cài đặt logic.
+   - com.<studentId>.mvc.controller      : Chứa các Controller class điều hướng và xử lý request.
+   - com.<studentId>.mvc.dto             : Chứa các Data Transfer Object (DTO) truyền dữ liệu.
+   - com.<studentId>.mvc                 : Chứa file cấu hình (Configuration) và Application main class.
+   (Lưu ý: Tên class và thuộc tính class phải đúng theo yêu cầu đề bài; vi phạm cấu trúc package sẽ bị trừ điểm hoặc không được chấm bài).
+4. Cấu hình bắt buộc trong file 'application.properties':
+   - Database name: Tên theo đề thi (ví dụ: HSF302_2025_PE hoặc HSF302_2026_PE).
+   - Server name & Port: localhost:1433
+   - spring.datasource.username: sa
+   - spring.datasource.password: sa
+   - CSDL phải được thiết lập chế độ xác thực: SQL Server and Windows Authentication mode (SQL Server authentication).
+   - server.servlet.context-path: /
+   - server.port: 8080
+   - spring.jpa.hibernate.ddl-auto: none
+   - Path for the application page in controller: /
+   - URL truy cập trang chủ ứng dụng bắt buộc là: http://localhost:8080/
+5. Yêu cầu CSDL (Database):
+   - Sinh viên chạy script file .sql được cấp kèm theo đề để tạo bảng và dữ liệu mẫu.
+   - Tên bảng và tên trường (table name, field name) trong CSDL và Entity PHẢI CHÍNH XÁC 100% theo mô tả đề thi. Nếu vi phạm, bài làm sẽ bị CHẤM ĐIỂM 0.
+6. Hướng dẫn nộp bài (Submit Guideline) qua hệ thống EOS:
+   - Bước quan trọng trước khi nén zip: Sinh viên BẮT BUỘC phải chạy lệnh 'mvn clean' trong thư mục project để xóa toàn bộ các file class đã compile trong thư mục 'target/' nhằm giảm dung lượng.
+   - Sau đó nén cả thư mục project thành 1 file .zip (đảm bảo dung lượng nhẹ).
+   - Nộp file .zip lên phần mềm thi EOS theo đúng hướng dẫn của giám thị.
+
+--------------------------------------------------
+MÔN PRN212 / PRN222 / PRN232 (Lập trình .NET / C#)
+--------------------------------------------------
+1. Môi trường bắt buộc: Visual Studio 2022++, Framework .NET 8.0.
+2. Được dùng tài liệu offline trên máy tính, tài liệu giấy.
+3. Không được cài thêm bất kỳ thư viện nào qua NuGet Package Manager.
+4. Chạy script CSDL .sql trong file zip trước khi làm bài.
+5. Lệnh nộp bài từng câu:
+   dotnet publish -c Release -o ./[QuestionNumber_StudentAccount]
+   (Ví dụ: dotnet publish -c Release -o ./Q1_trungnthe123432)
+   Được xóa thư mục /bin, /obj để bài nộp nhẹ hơn.
+
+--------------------------------------------------
+MÔN PRO192 (Lập trình hướng đối tượng với Java)
+--------------------------------------------------
+1. Tools được phép: NetBeans 8.x trở lên, JDK 1.8 (Java 8), Notepad, Command Prompt, WinRAR / WinZip, Windows Explorer.
+2. Mở ứng dụng khác ngoài danh sách đều bị 0 điểm PE.
+
+--------------------------------------------------
+MÔN SDN302 (Node.js & MongoDB)
+--------------------------------------------------
+1. Phần mềm được phép: PEA, Windows Explorer, zip tools, Visual Studio Code, MongoDB Compass, MongoDB V.6 trở lên, Postman.
+2. Được kết nối Internet để cài đặt package npm.
+3. Ứng dụng nộp nếu không dùng express-generator tạo app hoặc không chạy được bằng 'npm start' -> 0 ĐIỂM PE.
+4. Chuỗi kết nối MongoDB, PORT (5000, 4000, 8000...), secret JWT PHẢI ĐỌC TỪ FILE .ENV, không được hardcode. Làm sai sẽ bị 0 điểm PE.
+5. Dung lượng submit PE < 10MB.
+
+--------------------------------------------------
+MÔN DHV301 (Trực quan hóa dữ liệu với Power BI / Python)
+--------------------------------------------------
+1. Công cụ: PEA, Power BI Desktop, VS Code, Jupyter Notebook/Lab (Anaconda/Miniconda) khi đề có phần Python, Excel (chỉ xem nhanh file, không sửa nguồn).
+2. NGHIÊM CẤM SỬ DỤNG AI: Tuyệt đối không dùng ChatGPT, Gemini, Copilot, Claude, Perplexity, không dùng Git/GitHub, Stack Overflow.
+3. File .pbix không mở được hoặc thiếu dashboard/KPI/DAX -> 0 điểm. Code Python lỗi runtime hoặc thiếu file .ipynb/.py -> 0 điểm.
+
+--------------------------------------------------
+MÔN GNS301 (Lập trình Game / C# ASP.NET Core)
+--------------------------------------------------
+1. Công cụ: .NET 8 SDK, Visual Studio 2022 (hoặc VS Code + C# Dev Kit), MongoDB Compass, MongoDB Server / Docker.
+2. Quy định đặt tên project ASP.NET Core và Database: GNS301_PE_SU26_StudentCode (ví dụ: GNS301_PE_SU26_SE123456).
+
+--------------------------------------------------
+MÔN BCP201 (Phân tích dữ liệu với Python)
+--------------------------------------------------
+1. Môi trường: Anaconda (Navigator), Jupyter Notebook, Python 3, Pandas, Matplotlib, NumPy.
+2. BẮT BUỘC kết nối Wifi EXAM trong suốt quá trình thi.
+3. CẤM TUYỆT ĐỐI TẤT CẢ CÁC CÔNG CỤ AI: Kể cả chạy cục bộ (LM Studio, Ollama, LocalAI, Jan...) lẫn trực tuyến (ChatGPT, Gemini, Grok, Claude, NotebookLM, Perplexity...).
+4. Cấm chụp ảnh màn hình, cấm máy ảo, cấm Zalo/Messenger/Skype/TeamViewer/AnyDesk.
+
+--------------------------------------------------
+MÔN SWD392 / MÔN SWR302 (Kiến trúc & Thiết kế phần mềm)
+--------------------------------------------------
+1. Phần mềm: PEA, MS Word, Visual Paradigm (offline), Draw.io Desktop (offline), PlantUML (offline), MS Visio, StarUML.
+2. KHÔNG ĐƯỢC KẾT NỐI INTERNET trong suốt buổi thi. Cấm mọi công cụ AI và phần mềm chat.
+3. Nộp 1 file .doc/.docx hoặc file nén .rar.
+
+--------------------------------------------------
+MÔN SWT301 (Kiểm thử phần mềm)
+--------------------------------------------------
+1. Phần mềm: PEA để đọc đề, Microsoft Excel để làm bài theo template.
+2. KHÔNG ĐƯỢC KẾT NỐI INTERNET. Chỉ mở duy nhất MS Excel, mở phần mềm khác coi như vi phạm.
+3. Cấm chụp ảnh màn hình, cấm máy ảo, cấm công cụ AI, cấm đồng bộ đám mây OneDrive/Dropbox/Git.
+
+==================================================
+PHẦN 4: HẬU KIỂM, GIÁM SÁT VÀ XỬ LÝ SỰ CỐ PHÒNG THI
+==================================================
+1. GHI NHẬT KÝ (LOGS) HỆ THỐNG:
+   - Tất cả các thao tác trên máy tính trong thời gian thi đều được phần mềm giám sát ghi lại dưới dạng nhật ký (write logs) và lưu trên máy chủ nhà trường làm bằng chứng xử lý kỷ luật.
+2. CẢNH BÁO PHẦN MỀM CHẠY NGẦM:
+   - Dù các ứng dụng cấm chỉ đang chạy nền/chạy ngầm dưới thanh taskbar mà sinh viên chưa đụng tới, sinh viên vẫn bị coi là VI PHẠM NỘI QUY THI. Do đó bắt buộc phải tắt triệt để các ứng dụng này trước khi bắt đầu thi.
+3. THẨM ĐỊNH BÀI THI (VẤN ĐÁP):
+   - Trường hợp điểm thi thực hành (PE) và điểm quá trình có sự chênh lệch bất thường, sinh viên sẽ bị gọi phỏng vấn thẩm định trực tiếp để xác minh mức độ hiểu bài và bản chất bài làm.
+4. XỬ LÝ SỰ CỐ TẠI PHÒNG THI:
+   - Nếu gặp sự cố (máy tính lỗi, phần mềm treo, lỗi đề thi), sinh viên phải báo ngay cho Giám thị tại phòng thi để lập biên bản ghi nhận. Sau buổi thi, gửi email ngay đến bộ phận Khảo thí để được xem xét giải quyết.
